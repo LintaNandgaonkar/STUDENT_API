@@ -1,4 +1,4 @@
-# CRUD-Operation2-
+# STUDENT_API_CRUD
 
 Developing an  CURD API using  SPRING BOOT and Testing it in a following way :-
 
